@@ -1,0 +1,619 @@
+yves_semg@147dda6bb173 project1 % java ProductInventory
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+10
+Enter the name of the product:
+Beans 
+Enter the category of the product
+Food
+Is this product available? (true/false)
+true
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+4
+Enter the name of the product:
+Pens
+Enter the category of the product
+School
+Is this product available? (true/false)
+false
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+1
+Enter the name of the product:
+Keyboard
+Enter the category of the product
+Electronics
+Is this product available? (true/false)
+true
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+4
+Enter the name of the product:
+Bags
+Enter the category of the product
+Other
+Is this product available? (true/false)
+true
+ product number 4 already exists. Please provide a distinct number
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+7
+Enter the name of the product:
+Heineken
+Enter the category of the product
+Beer
+Is this product available? (true/false)
+false
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+12
+Enter the name of the product:
+Jeans
+Enter the category of the product
+Clothings
+Is this product available? (true/false)
+true
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+2
+Enter the name of the product:
+laptop
+Enter the category of the product
+Electronics
+Is this product available? (true/false)
+true
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+20
+Enter the name of the product:
+Biscuits
+Enter the category of the product
+Food
+Is this product available? (true/false)
+false
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+12
+Enter the name of the product:
+Water
+Enter the category of the product
+Drinks
+Is this product available? (true/false)
+true
+ product number 12 already exists. Please provide a distinct number
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+3
+.....Displaying all products.....
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Product number: 2
+Product name: laptop
+Category: Electronics
+Available: true
+
+Product number: 4
+Product name: Pens
+Category: School
+Available: false
+
+Product number: 7
+Product name: Heineken
+Category: Beer
+Available: false
+
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 12
+Product name: Jeans
+Category: Clothings
+Available: true
+
+Product number: 20
+Product name: Biscuits
+Category: Food
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+4
+.....Displaying available products... ..
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Product number: 2
+Product name: laptop
+Category: Electronics
+Available: true
+
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 12
+Product name: Jeans
+Category: Clothings
+Available: true
+
+The number of available products is 4
+The total number of products is 7
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+2
+Enter the number of the product to be removed.
+4
+..... removing product 4 from the inventory.....
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+3
+.....Displaying all products.....
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Product number: 2
+Product name: laptop
+Category: Electronics
+Available: true
+
+Product number: 7
+Product name: Heineken
+Category: Beer
+Available: false
+
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 12
+Product name: Jeans
+Category: Clothings
+Available: true
+
+Product number: 20
+Product name: Biscuits
+Category: Food
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+13
+Enter the name of the product:
+Table
+Enter the category of the product
+Furniture
+Is this product available? (true/false)
+true
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+24
+Enter the name of the product:
+Paper
+Enter the category of the product
+School
+Is this product available? (true/false)
+false
+......Inserting the product into the inventory......
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+2
+....searching for product number 2....
+Product number: 2
+Product name: laptop
+Category: Electronics
+Available: true
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+24
+....searching for product number 24....
+Product number: 24
+Product name: Paper
+Category: School
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+7
+....searching for product number 7....
+Product number: 7
+Product name: Heineken
+Category: Beer
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+40
+This product number 40 can not be found in the inventory.
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+1
+....searching for product number 1....
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+10
+....searching for product number 10....
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+5
+Enter the number of the product to search for.
+13
+....searching for product number 13....
+Product number: 13
+Product name: Table
+Category: Furniture
+Available: true
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+6
+...Displaying top 5 recently searched products...
+Product number: 13
+Product name: Table
+Category: Furniture
+Available: true
+
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Product number: 7
+Product name: Heineken
+Category: Beer
+Available: false
+
+Product number: 24
+Product name: Paper
+Category: School
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice: 
+5
+Enter the number of the product to search for.
+12
+....searching for product number 12....
+Product number: 12
+Product name: Jeans
+Category: Clothings
+Available: true
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+6
+...Displaying top 5 recently searched products...
+Product number: 12
+Product name: Jeans
+Category: Clothings
+Available: true
+
+Product number: 13
+Product name: Table
+Category: Furniture
+Available: true
+
+Product number: 10
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 1
+Product name: Keyboard
+Category: Electronics
+Available: true
+
+Product number: 7
+Product name: Heineken
+Category: Beer
+Available: false
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+9
+Enter a valid choice.
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+a
+Please enter only numbers for your option.
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice:
+1
+Enter a positive number  of the product:
+-10
+Enter the name of the product:
+Eggs
+Enter the category of the product
+Food
+Is this product available? (true/false)
+false
+Exception in thread "main" java.lang.IllegalArgumentException: Provide a positive product number.
+	at ProductInventory.insert(ProductInventory.java:58)
+	at ProductInventory.main(ProductInventory.java:262)
+
+Choose option number of the operation you would like to perform? :
+1.Insert a product
+2.Remove a product
+3.Display all products
+4.Display only available products
+5.Find a product
+6.Display top 5 recent searched products
+7.Quit the program
+Enter your choice: 
+7
+....Quiting the program. BYE!.......
+
+yves_semg@147dda6bb173 project1 % 
+
+
+
+
+
+

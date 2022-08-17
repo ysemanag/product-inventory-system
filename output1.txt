@@ -1,0 +1,270 @@
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+.....Displaying all products.....
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 2
+Product name: Tomatoes
+Category: Vegetables
+Available: false
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+ product number 2 already exists. Please provide a distinct number
+..... removing product 2 from the inventory.....
+.....Displaying all products.....
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+.....Displaying all products.....
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+Product number: 4
+Product name: Wine
+Category: Drinks
+Available: true
+
+Product number: 6
+Product name: Books
+Category: School
+Available: false
+
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+Product number: 10
+Product name: Jeans
+Category: Clothings
+Available: false
+
+ product number 4 already exists. Please provide a distinct number
+......Inserting the product into the inventory......
+..... removing product 6 from the inventory.....
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+......Inserting the product into the inventory......
+.....Displaying all products.....
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+Product number: 4
+Product name: Wine
+Category: Drinks
+Available: true
+
+Product number: 5
+Product name: Strawberry
+Category: Fruits
+Available: true
+
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+Product number: 8
+Product name: Omolette
+Category: Food
+Available: true
+
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+Product number: 10
+Product name: Jeans
+Category: Clothings
+Available: false
+
+Product number: 11
+Product name: Pens
+Category: School
+Available: false
+
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+.....Displaying available products... ..
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+Product number: 4
+Product name: Wine
+Category: Drinks
+Available: true
+
+Product number: 5
+Product name: Strawberry
+Category: Fruits
+Available: true
+
+Product number: 8
+Product name: Omolette
+Category: Food
+Available: true
+
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+The number of available products is 7
+The total number of products is 10
+There are no searched products yet.
+This product number 15 can not be found in the inventory.
+....searching for product number 1....
+Product number: 1
+Product name: Beans
+Category: Food
+Available: true
+
+....searching for product number 12....
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+....searching for product number 4....
+Product number: 4
+Product name: Wine
+Category: Drinks
+Available: true
+
+....searching for product number 9....
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+....searching for product number 7....
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+....searching for product number 3....
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+....searching for product number 12....
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+...Displaying top 5 recently searched products...
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+Product number: 4
+Product name: Wine
+Category: Drinks
+Available: true
+
+This product number 15 can not be found in the inventory.
+....searching for product number 7....
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+...Displaying top 5 recently searched products...
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+Product number: 12
+Product name: Speaker
+Category: Electronics
+Available: true
+
+Product number: 3
+Product name: Nails
+Category: Construction
+Available: true
+
+Product number: 7
+Product name: Stella
+Category: Beer
+Available: false
+
+Product number: 9
+Product name: Phone
+Category: Tech
+Available: true
+
+Exception in thread "main" java.lang.IllegalArgumentException: Provide a positive product number.
+	at ProductInventory.insert(ProductInventory.java:58)
+	at ProductInventory.main(ProductInventory.java:240)
+
